@@ -1,0 +1,5 @@
+{
+  "name": "Remix: AI Photo Restore",
+  "description": "Ứng dụng phục chế ảnh cũ bằng AI: Tô màu, khử nhiễu, xóa vết rách và làm nét khuôn mặt chuyên sâu.",
+  "requestFramePermissions": []
+}
